@@ -1,5 +1,5 @@
 <section class="bg-gray-200 py-20">
-    <div class="container mx-auto px-4 flex flex-wrap items-center font-lemon">
+    <div class="container mx-auto px-4 flex flex-wrap items-center font-lemon text-xl">
         <div class="w-full md:w-1/2 mb-10 md:mb-0 rounded-lg shadow-md p-6 bg-white">
             <h2 class="text-3xl font-bold mb-4">Customer <span class="text-yellow-400">Feedback</span></h2>
             <p class="mb-6 text-black">

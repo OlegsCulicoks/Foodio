@@ -12,6 +12,7 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
                 lemon: ['Lemon', 'cursive'],
+                acme: ['Acme', 'sans-serif'],
             },
         },
     },

@@ -8,12 +8,12 @@
                     <p>Phone: +371 28015570</p>
                 </address>
             </div>
-            <div class="flex flex-col justify-center items-center lg:items-start">
+            <div class="flex flex-col justify-center mt-[150px] items-center lg:items-start">
                 <h3 class="font-semibold mb-2 text-yellow-400">Opening Hours</h3>
                 <p>Monday - Friday: 11:00 AM - 10:00 PM</p>
                 <p>Saturday - Sunday: 10:00 AM - 11:00 PM</p>
             </div>
-            <div class="flex flex-col justify-center items-center lg:items-end">
+            <div class="flex flex-col justify-center items-center mt-[175px] lg:items-end">
                 <h2 class="text-lg sm:text-xl font-bold text-center lg:text-right">
                     © {{ date('Y') }} Olegs Culicoks
                     <br>

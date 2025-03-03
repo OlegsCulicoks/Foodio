@@ -34,7 +34,7 @@
                                     }
                                 @endphp
                                 @if ($menuItem)
-                                    <div class="border-2 border-yellow-400 rounded-lg overflow-hidden">
+                                    <div class="border-2 bg-gray-200 border-yellow-400 rounded-lg overflow-hidden">
                                         @if (file_exists(public_path('images/' . $menuItem->image)))
                                             <img src="{{ asset('images/' . $menuItem->image) }}" alt="{{ $menuItem->name }}" class="w-full h-48 object-cover">
                                         @else
